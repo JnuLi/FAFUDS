@@ -1,2 +1,1 @@
-# FAFUDS
-FAFU数据科学研讨班
+# FAFU数据科学研讨班
